@@ -1,0 +1,22 @@
+{
+    "name": "theme-onedark-plus",
+    "displayName": "One Dark Plus",
+    "description": "One Dark theme but subtle.",
+    "version": "0.0.1",
+    "publisher": "anaganisk",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark Plus",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One%2520Dark.tmTheme"
+            }
+        ]
+    }
+}
