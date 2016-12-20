@@ -61,7 +61,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#373760</string>
+				<string>#618BFF</string>
 				<key>fontStyle</key>
 				<string>italic</string>
 			</dict>
@@ -72,9 +72,9 @@
 			<key>scope</key>
 			<string>comment</string>
 			<key>settings</key>
-			<dict>
+			<dict></dict>
 				<key>foreground</key>
-				<string>#373760</string>
+				<string>#618BFF</string>
 				<key>fontStyle</key>
 				<string>italic</string>
 			</dict>
