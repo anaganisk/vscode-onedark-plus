@@ -19,7 +19,7 @@
         "themes": [{
             "label": "One Dark Plus",
             "uiTheme": "vs-dark",
-            "path": "./themes/One%2520Dark.tmTheme"
+            "path": "./themes/OneDarkPlus.tmTheme"
         }]
     },
     "icon": "icon.png"
