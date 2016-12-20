@@ -72,7 +72,7 @@
 			<key>scope</key>
 			<string>comment</string>
 			<key>settings</key>
-			<dict></dict>
+			<dict>
 				<key>foreground</key>
 				<string>#618BFF</string>
 				<key>fontStyle</key>
