@@ -61,7 +61,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#360773</string>
+				<string>#373760</string>
 				<key>fontStyle</key>
 				<string>italic</string>
 			</dict>
@@ -74,7 +74,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#360773</string>
+				<string>#373760</string>
 				<key>fontStyle</key>
 				<string>italic</string>
 			</dict>
