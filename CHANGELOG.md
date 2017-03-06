@@ -1,6 +1,6 @@
 # Change Log
 All notable changes to the "theme-onedark-plus" extension will be documented in this file.
-## [1.0.1]
+## [1.0.2]
 - Fix comment formatting error.
 
 ## [1.0.0]
