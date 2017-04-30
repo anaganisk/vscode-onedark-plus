@@ -1,5 +1,8 @@
 # Change Log
 All notable changes to the "theme-onedark-plus" extension will be documented in this file.
+## [1.0.4]
+- Bug fixes.
+
 ## [1.0.3]
 - Improved typescript syntax support.
 
