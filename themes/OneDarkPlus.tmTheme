@@ -1318,7 +1318,7 @@
 			<key>name</key>
 			<string>Typescript</string>
 			<key>scope</key>
-			<string>support.variable.property.dom.ts</string></string>
+			<string>support.variable.property.dom.ts</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
