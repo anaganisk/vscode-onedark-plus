@@ -2,7 +2,7 @@
     "name": "theme-onedark-plus",
     "displayName": "One Dark Plus",
     "description": "One Dark theme but subtle.",
-    "version": "1.0.4",
+    "version": "2.0.0",
     "publisher": "anaganisk",
     "license": "MIT",
     "repository": {
@@ -19,7 +19,7 @@
         "themes": [{
             "label": "One Dark Plus",
             "uiTheme": "vs-dark",
-            "path": "./themes/OneDarkPlus.tmTheme"
+            "path": "./themes/OneDarkPlus.json"
         }]
     },
     "icon": "icon.png"

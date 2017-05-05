@@ -1,5 +1,10 @@
 # Change Log
 All notable changes to the "theme-onedark-plus" extension will be documented in this file.
+
+## [2.0.0]
+- Shifted from tmTheme to json theme file format.
+- added workspace UI theme support.
+
 ## [1.0.4]
 - Bug fixes.
 

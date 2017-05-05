@@ -1324,6 +1324,16 @@
 				<key>foreground</key>
 				<string>#18bc6c</string>
 			</dict>
+		</dict>	
+		<dict>
+			<key>name</key>
+			<string>colors</string>
+			<array>
+				<dict>
+					<key>statusBar.background</key>
+					<string>#ffffff</string>
+				</dict>
+			</array>
 		</dict>		
 	</array>
 	<key>uuid</key>
